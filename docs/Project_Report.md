@@ -127,5 +127,5 @@ ServiceNow scripts and configuration can be exported from the application for do
 Station and fare records are maintained in the ServiceNow application.
 
 ### GitHub & Project Demo Link
-Repository: https://github.com/
+Repository: https://github.com/nakkadharanigoud/metro-ticket-generating-system.git
 Demo video: Add your video link after uploading.
