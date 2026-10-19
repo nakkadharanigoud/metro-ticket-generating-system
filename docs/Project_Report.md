@@ -128,4 +128,4 @@ Station and fare records are maintained in the ServiceNow application.
 
 ### GitHub & Project Demo Link
 Repository: https://github.com/nakkadharanigoud/metro-ticket-generating-system.git
-Demo video: Add your video link after uploading.
+Demo video: https://github.com/nakkadharanigoud/metro-ticket-generating-system/blob/main/Metro%20Ticket%20Generating%20System%20Demo.mp4
